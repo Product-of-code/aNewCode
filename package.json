@@ -1,0 +1,19 @@
+{
+  "name": "anewcode",
+  "version": "1.0.0",
+  "description": "example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Product-of-code/aNewCode.git"
+  },
+  "author": "Luis Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Product-of-code/aNewCode/issues"
+  },
+  "homepage": "https://github.com/Product-of-code/aNewCode#readme"
+}
